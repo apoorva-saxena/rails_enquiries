@@ -1,5 +1,6 @@
 # rails_enquiries`
 
+Task: Create a gem 
 
 
 
@@ -23,7 +24,7 @@ i want to click on each controller and see a visual representation of what it do
 
 ```
 As a back end developer
-So that i can see how my app fits together 
+So that i can see how my app fits together
 i want a diagram of how the MVC works for each controller method
 ```
 
@@ -44,5 +45,3 @@ As a developer worried about how my app might scale
 So i know where to focus my efforts
 I would like to know how long each route takes
 ```
-
-
